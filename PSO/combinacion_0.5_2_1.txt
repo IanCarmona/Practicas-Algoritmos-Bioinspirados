@@ -1,0 +1,7 @@
+Resultados para Primo 71:
+Global Best Position: [-0.48844241  0.24981166  0.08210715  0.01815894  0.00521374  0.01888215
+  0.00319075  0.00537618  0.01583585  0.00056239]
+Best Fitness Value: 9.61954708237335
+Average Particle Best Fitness Value: 9.61954708237335
+Number of Generation: 4999
+

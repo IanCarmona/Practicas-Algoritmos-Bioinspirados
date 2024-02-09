@@ -1,0 +1,143 @@
+Resultados para Primo 2:
+Global Best Position: [-8.89804831e+00 -3.00023017e+01  2.27727377e+01  6.93398218e+00
+  3.27680000e+01 -1.03278877e+00  2.17625125e-02 -3.27680000e+01
+ -3.04724825e+00  2.30119496e+01]
+Best Fitness Value: 0.985858737926677
+: -2.3495443861007184
+Number of Generation: 41
+
+Resultados para Primo 3:
+Global Best Position: [-6.99467859e+00 -3.27680000e+01 -3.27680000e+01 -4.96913070e-03
+  4.00516018e+00  3.27680000e+01  6.98326755e+00  3.27680000e+01
+  2.10087364e+01 -1.10027372e+01]
+Best Fitness Value: 0.908484425310967
+: -0.037311168628533516
+Number of Generation: 40
+
+Resultados para Primo 5:
+Global Best Position: [  7.99654192 -29.98169316 -26.00231237  -7.99463007 -27.93223397
+ -29.11219478   5.08725398  16.03680867  24.99508613 -24.07948965]
+Best Fitness Value: 0.2606834791493786
+: -9.217704212345142
+Number of Generation: 17
+
+Resultados para Primo 7:
+Global Best Position: [ 32.768      -32.768      -32.768      -24.99999999 -32.768
+ -32.768      -32.768       31.99999999   3.          32.768     ]
+Best Fitness Value: 16.065724876244314
+: 16.06572487624431
+Number of Generation: 4999
+
+Resultados para Primo 11:
+Global Best Position: [ 32.768       32.768      -32.768      -32.768       -9.
+ -32.768      -30.99999999 -32.768       18.         -31.99999999]
+Best Fitness Value: 12.351854793568265
+: 12.351854793568263
+Number of Generation: 4999
+
+Resultados para Primo 13:
+Global Best Position: [ 32.768       23.99740878  32.768      -14.04237818  18.96068847
+  32.768      -32.768       24.9692014  -21.03894572  28.01088673]
+Best Fitness Value: 0.051987771876156774
+: -0.02231844954191862
+Number of Generation: 53
+
+Resultados para Primo 17:
+Global Best Position: [ 22.99999999  32.768       32.768       32.768      -32.768
+ -14.99999999 -32.768       32.768       32.768       32.768     ]
+Best Fitness Value: 18.449062617135557
+: 18.449062617135553
+Number of Generation: 4999
+
+Resultados para Primo 19:
+Global Best Position: [ 32.768      -32.768       11.99999999  32.768       32.768
+ -32.768      -20.99999999  15.99999999  32.768      -31.99999999]
+Best Fitness Value: 12.35183811916018
+: 12.351838119160181
+Number of Generation: 4999
+
+Resultados para Primo 23:
+Global Best Position: [-29.99999997  -6.99999999  32.768        1.           9.99999999
+ -18.99999998 -32.768      -32.768      -32.768      -32.768     ]
+Best Fitness Value: 6.5645383529579036
+: 6.564538352957904
+Number of Generation: 4999
+
+Resultados para Primo 29:
+Global Best Position: [-32.768      -32.768      -32.768      -32.768       29.99999999
+  32.768      -32.768       32.          22.99999999  32.768     ]
+Best Fitness Value: 16.065736327574577
+: 16.06573632757457
+Number of Generation: 4999
+
+Resultados para Primo 31:
+Global Best Position: [  5.97151415  32.768       32.768      -27.00484924  20.00297701
+ -32.768       27.91261777 -21.07464905 -22.92274974  26.06774667]
+Best Fitness Value: 0.1817686847000748
+: -2.126367883535062
+Number of Generation: 37
+
+Resultados para Primo 37:
+Global Best Position: [-32.768      -12.99999998 -32.768      -32.768       32.768
+ -32.768       32.768       -2.           8.99999999  -4.        ]
+Best Fitness Value: 12.351702791265618
+: 12.351702791265616
+Number of Generation: 4999
+
+Resultados para Primo 41:
+Global Best Position: [ 30.90776625  23.85351395  26.07523568 -32.14743232  -8.96781793
+  32.07093369  11.00559835 -14.03683148  11.10609439 -25.98791016]
+Best Fitness Value: 0.5481511030127746
+: -5.515369780647522
+Number of Generation: 24
+
+Resultados para Primo 43:
+Global Best Position: [-32.768        2.         -32.768      -32.768      -23.99999999
+  32.768      -32.768       32.768       32.768       32.768     ]
+Best Fitness Value: 18.449059462572656
+: 18.449059462572652
+Number of Generation: 4999
+
+Resultados para Primo 47:
+Global Best Position: [-30.01074141  32.768        7.94839078  32.768      -30.95141318
+  31.13843287  13.02764427  18.9901132   32.768       -1.98118698]
+Best Fitness Value: 0.253147526798124
+: -1.2548824548537234
+Number of Generation: 40
+
+Resultados para Primo 53:
+Global Best Position: [ 30.01669468  -0.17190734   6.00776629  14.9180958   10.13572826
+  14.99268194 -18.83411019   1.77063715 -17.95602344  -2.96039536]
+Best Fitness Value: 0.7851407215068851
+: -0.6373958446795676
+Number of Generation: 29
+
+Resultados para Primo 59:
+Global Best Position: [-19.99999999 -29.99999999 -32.768       32.768       32.768
+  32.768      -24.          32.768       32.768      -22.99999999]
+Best Fitness Value: 12.35185517266776
+: 12.351855172667756
+Number of Generation: 4999
+
+Resultados para Primo 61:
+Global Best Position: [-10.99999999  32.768       14.99999999 -32.768       32.768
+ -32.768      -11.99999999  28.99999998  32.768       16.99999999]
+Best Fitness Value: 6.564566962025605
+: 6.5645669620256095
+Number of Generation: 4999
+
+Resultados para Primo 67:
+Global Best Position: [-13.99999999  32.768      -32.768       32.768       24.99999999
+  32.768      -32.768      -22.99999999  32.768      -32.768     ]
+Best Fitness Value: 16.065718124240803
+: 16.065718124240803
+Number of Generation: 4999
+
+Resultados para Primo 71:
+Global Best Position: [ 3.2768000e+01 -1.2000000e+01  3.2768000e+01  3.2768000e+01
+  2.3000000e+01  3.2104089e-09  2.9000000e+01 -3.2768000e+01
+  9.0000000e+00  3.2768000e+01]
+Best Fitness Value: 6.564563823296989
+: 6.564563823296993
+Number of Generation: 4999
+

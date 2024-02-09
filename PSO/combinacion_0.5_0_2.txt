@@ -1,0 +1,7 @@
+Resultados para Primo 41:
+Global Best Position: [ 3.14086842 -4.42672486 -5.61867403 -6.41575556 -0.15546257 -0.34198626
+ -8.53273696  0.07608598 -9.38969845 -0.14626366]
+Best Fitness Value: 0.09022770670094193
+Average Particle Best Fitness Value: 0.09762949284799415
+Number of Generation: 51
+
